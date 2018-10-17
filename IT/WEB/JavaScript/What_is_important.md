@@ -1,0 +1,21 @@
+# What is important?
+- npm
+- node.js
+- vue.js
+- e2e(end to end) 
+- vue-test-utils(e.g.: jest )
+  	- https://vue-test-utils.vuejs.org/zh/guides/#%E8%B5%B7%E6%AD%A5
+- axios
+- Polyfills
+	- https://cli.vuejs.org/guide/browser-compatibility.html#polyfills
+- ES5
+	- http://lzw.me/pages/ecmascript/
+	- https://lzw.me/a/fed-code-quality.html(quanlity)
+- oo
+	- http://caibaojian.com/javascript-objects.html
+- ES6
+	- http://caibaojian.com/es6/
+- ES5-ES8
+	- http://yanhaijing.com/es5/#17
+- 8 Useful JavaScript Hacks
+	- https://scrimba.com/c/cg9ybum
